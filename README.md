@@ -1,7 +1,7 @@
 # Welcome to my first git repo
 
-##Author information
+## Author information
 Luis Miguel Viboras
 
-##Project description
+## Project description
 Just a test git repo for learning
